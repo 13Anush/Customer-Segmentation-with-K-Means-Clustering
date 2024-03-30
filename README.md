@@ -16,3 +16,6 @@
 - Personalize marketing strategies for targeted customer segments.
 - Enhance customer satisfaction by catering to their specific preferences.
 - Maximize profitability and ROI by aligning your approach with customer insights.
+
+#### GITHUB -
+https://github.com/13Anush/Customer-Segmentation-with-K-Means-Clustering
